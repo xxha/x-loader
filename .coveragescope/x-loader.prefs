@@ -1,0 +1,10 @@
+#Fri Oct 26 17:46:00 ICT 2012
+Version=1.0
+Function\ Coverage=true
+Initial\ size\ of\ file\:\ =32
+Block\ Coverage=true
+Increase\ file\ size\ in\ increments\ of\:\ =32
+EnableCoverage=2
+Do\ not\ delete\ the\ instrumented\ preprocessed\ source\ code\ file.=true
+File\ to\ store\ coverage\ data\ (on\ target)\:\ =/tmp/WRSCoverageData
+Apply\ coverage\ to\ inlined\ functions\ that\ are\ in\ the\ source\ code\ file.=true
